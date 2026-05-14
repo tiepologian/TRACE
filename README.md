@@ -108,7 +108,7 @@ If you adopt any of the model and find it useful, or if you find places where it
 
 The TRACE model and its underlying rationale are described in narrative form in the accompanying blog post:
 
-> [*From Intelligence to Action: A Practical Operating Model for CTI Teams*](https://medium.com/@mrtiepolo)
+> [*From Intelligence to Action: A Practical Operating Model for CTI Teams*](https://medium.com/@mrtiepolo/from-intelligence-to-action-a-practical-operating-model-for-cti-teams-8169b6615c99)
 
 The broader theoretical and practical foundations of the CTI and threat hunting work that TRACE supports are covered in my latest book:
 
